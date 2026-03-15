@@ -1,0 +1,10 @@
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (1, '凉拌黄瓜', 3068);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (2, '回锅肉', 2967);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (3, '宫保鸡丁', 3271);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (4, '清蒸鲈鱼', 3155);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (5, '番茄炒蛋', 3262);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (6, '糖醋里脊', 2964);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (7, '红烧肉', 3017);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (8, '蒜蓉西兰花', 3217);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (9, '鱼香肉丝', 3031);
+INSERT INTO `top_sales_products` (`id`, `product_name`, `total_quantity`) VALUES (10, '麻婆豆腐', 3003);

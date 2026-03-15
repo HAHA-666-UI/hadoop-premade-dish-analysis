@@ -1,0 +1,10 @@
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (1, '凉拌黄瓜', 36.6);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (2, '回锅肉', 36.7);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (3, '宫保鸡丁', 36.9);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (4, '清蒸鲈鱼', 36.7);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (5, '番茄炒蛋', 36.6);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (6, '糖醋里脊', 37.0);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (7, '红烧肉', 36.5);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (8, '蒜蓉西兰花', 36.7);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (9, '鱼香肉丝', 37.1);
+INSERT INTO `product_rating` (`id`, `product_name`, `avg_rating`) VALUES (10, '麻婆豆腐', 37.4);

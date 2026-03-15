@@ -1,0 +1,10 @@
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (1, '四川', 130481.00, 3051);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (2, '安徽', 130394.00, 3067);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (3, '山东', 129331.00, 3001);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (4, '广东', 157035.00, 3450);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (5, '江苏', 116383.00, 2892);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (6, '河南', 137739.00, 3149);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (7, '浙江', 135521.00, 3067);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (8, '湖北', 122209.00, 2898);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (9, '湖南', 137202.00, 3152);
+INSERT INTO `province_distribution` (`id`, `province`, `total_amount`, `total_quantity`) VALUES (10, '福建', 137570.00, 3228);

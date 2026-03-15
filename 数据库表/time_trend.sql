@@ -1,0 +1,12 @@
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (1, '2024-01', 112848.00, 2608);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (2, '2024-02', 111066.00, 2587);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (3, '2024-03', 125424.00, 2716);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (4, '2024-04', 102432.00, 2413);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (5, '2024-05', 123101.00, 2758);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (6, '2024-06', 102239.00, 2500);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (7, '2024-07', 119374.00, 2716);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (8, '2024-08', 116576.00, 2716);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (9, '2024-09', 95797.00, 2346);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (10, '2024-10', 115606.00, 2640);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (11, '2024-11', 101816.00, 2410);
+INSERT INTO `time_trend` (`id`, `order_date`, `total_amount`, `total_quantity`) VALUES (12, '2024-12', 107586.00, 2545);
